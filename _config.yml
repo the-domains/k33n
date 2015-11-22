@@ -1,0 +1,28 @@
+name: k33n
+favicon: null
+layout_spectrum: 0.9171915971674025
+typography_spectrum: 0.7748688438441604
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5536551657132804
+  lightness: 0.5848505480680615
+  saturation: 0.9270629191305488
+  rhythmicContrast: 0.0077395690605044365
+purpose: []
